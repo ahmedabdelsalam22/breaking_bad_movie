@@ -2,15 +2,33 @@
 
 A new Flutter project.
 
-## Getting Started
+This is a mobile application using dart&flutter, this application fetches Breaking Bad Movies from different sites through “APIs” and displays it in the application through the latest, most flexible and fast methods and clean code.
 
-This project is a starting point for a Flutter application.
+# in this App i'm use this features ..
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter Widgets 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Bloc / cubit 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on
-mobile development, and a full API reference.
+- Api & get
+
+- Dio Package
+   
+- DarkTheme 
+
+- flutter_offline
+
+- animated_text_kit
+
+- flutter_spinkit
+
+- Sliver AppBar 
+
+- Custome ScrollView 
+
+![image1](https://user-images.githubusercontent.com/75587814/197401543-aab1cd6d-85c9-4cf4-9470-7757299e566b.jpeg)
+![image2](https://user-images.githubusercontent.com/75587814/197401546-5abbba25-f00a-44e8-92c1-a0041559d5b0.jpeg)
+![image3](https://user-images.githubusercontent.com/75587814/197401548-4a990b35-9166-4c9b-ae87-0c98903ea824.jpeg)
+![image4](https://user-images.githubusercontent.com/75587814/197401550-cd7294b8-15ba-473e-ae76-b0437e6a58c4.jpeg)
+![image5](https://user-images.githubusercontent.com/75587814/197401553-d5b6dd81-f202-411c-bda9-40c9346c5f3d.jpeg)
+![image6](https://user-images.githubusercontent.com/75587814/197401555-313682d3-fc54-4edb-b06e-121fc8c446dc.jpeg)
